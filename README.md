@@ -24,8 +24,8 @@ We are built for the global market. Our team operates with an "Automation First"
 ## 📫 Get in Touch
 Interested in collaborating or hiring our services?
 
-*   **Email:** jovian.foo@jovian.foo
-*   **LinkedIn:** contact@jovian.foo
+*   **Email:** contact@jovian.foo
+*   **LinkedIn:** https://www.linkedin.com/company/jovian-tech-foo/
 *   **Website:** https://www.jovian.foo
 
 "Smart. Bold. Jovian."
