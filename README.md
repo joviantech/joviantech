@@ -26,6 +26,6 @@ Interested in collaborating or hiring our services?
 
 *   **Email:** jovian.foo@jovian.foo
 *   **LinkedIn:** contact@jovian.foo
-*   **Website:** https://jovian.foo
+*   **Website:** https://www.jovian.foo
 
 "Smart. Bold. Jovian."
