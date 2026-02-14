@@ -1,36 +1,31 @@
-# 🌌 Jovian | Soluções Globais de TI
+# 🌌 Jovian | Global IT Solutions
 
-Preenchendo a lacuna entre problemas complexos e automação inteligente.
+Bridging the gap between complex problems and intelligent automation.
 
-Bem-vindo ao GitHub oficial da Jovian. Somos uma startup de tecnologia inovadora dedicada a fornecer serviços de TI de alto nível, especializados em automação, Infraestrutura como Código (IaC), Segurança Cibernética e Inteligência Artificial para clientes em todo o mundo.
+Welcome to the official GitHub of Jovian. We are a forward-thinking technology startup dedicated to providing high-tier IT services, specializing in automation, Infrastructure as Code (IaC), Cybersecurity, and Artificial Intelligence for clients worldwide.
 
-## 🚀 Nossa Missão
-Capacitar empresas internacionais, otimizando suas operações por meio de tecnologia de ponta, garantindo ambientes escaláveis, seguros e automatizados.
+## 🚀 Our Mission
+To empower international businesses by streamlining their operations through cutting-edge technology, ensuring scalable, secure, and automated environments.
 
-## 🛠 Principais Competências
-* **Automação e IA:** Desenvolvimento de ferramentas personalizadas em Python e integrações com LLM para otimizar fluxos de trabalho.
+## 🛠 Core Competencies
+*   **Automation & AI:** Developing custom Python tools and LLM integrations to optimize workflows.
+*   **Data Engineering:** Crafting robust ETL pipelines using SQL, PySpark, and modern data stack tools.
+*   **Infrastructure & Cloud:** Specialized in AWS, Azure, and GCP with a focus on Terraform and Docker.
+*   **Cybersecurity:** Implementing rigorous hardening, continuous monitoring (Zabbix/Grafana), and proactive defense strategies.
 
-* **Engenharia de Dados:** Criação de pipelines ETL robustos usando SQL, PySpark e ferramentas modernas de análise de dados.
+## 📁 Key Projects
+🌐 Connectivity
+We are built for the global market. Our team operates with an "Automation First" mindset, ensuring that distance is never a barrier to quality.
 
-* **Infraestrutura e Nuvem:** Especializados em AWS, Azure e GCP, com foco em Terraform e Docker.
+*   **Location:** Based in Brazil, serving the World.
+*   **Languages:** Portuguese (Native), English (Professional).
+*   **Methodology:** Agile, DevOps, and DevSecOps.
 
-**Cibersegurança:** Implementação de medidas rigorosas de segurança, monitoramento contínuo (Zabbix/Grafana) e estratégias de defesa proativas.
+## 📫 Get in Touch
+Interested in collaborating or hiring our services?
 
-## 📁 Projetos Principais
-🌐 Conectividade
-Somos feitos para o mercado global. Nossa equipe opera com uma mentalidade de "Automação em Primeiro Lugar", garantindo que a distância nunca seja uma barreira para a qualidade.
+*   **Email:** jovian.foo@jovian.foo
+*   **LinkedIn:** contact@jovian.foo
+*   **Website:** https://jovian.foo
 
-* **Localização:** Sediados no Brasil, atendendo o mundo.
-
-* **Idiomas:** Português (nativo), Inglês (profissional).
-
-* **Metodologia:** Agile, DevOps e DevSecOps.
-
-## 📫 Entre em Contato
-Interessado em colaborar ou contratar nossos serviços?
-
-* **E-mail:** jovian.foo@jovian.foo
-* **LinkedIn:** contact@jovian.foo
-* **Website:** https://jovian.foo
-
-"Inteligente. Ousado. Jovian."
+"Smart. Bold. Jovian."
